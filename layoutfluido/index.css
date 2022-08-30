@@ -37,7 +37,7 @@
 
     main{
         width: 75%;
-        height: 1650px;
+        height: 100%;
         background-color: rgb(128, 0, 0);
         float: left;
         margin-left: 13%;
@@ -46,7 +46,7 @@
     #a{
         clear: both;
         width: 30%;
-        height: 500px;
+        height: 25%;
        margin-left: 2.5%;
        margin-top: 2%;
     
@@ -55,14 +55,15 @@
     #ff2{
         float: right;
         margin-top: 100px;
-        margin-left: 30px;
+        margin-left: 15%;
         margin-right: 100px;
     }
 
     #b{
             clear: both;
-           width: 30%;
-           height: 500px;
+            
+        width: 30%;
+        height: 25%;
            margin-left: 2.5%;
            margin-top: 2%;
     }
@@ -70,14 +71,15 @@
     #otp{
         float: right;
         margin-top: 100px;
-        margin-left: 30px;
+        margin-left: 15%;
         margin-right: 100px;
     }
 
     #c{
         clear: both;
+       
         width: 30%;
-        height: 500px;
+        height: 25%;
         margin-left: 2.5%;
         margin-top: 2%;
     }
@@ -85,7 +87,7 @@
     #hmc{
         float: right;
         margin-top: 100px;
-        margin-left: 30px;
+        margin-left: 15%;
         margin-right: 100px;
     }
 
@@ -117,7 +119,7 @@
         background-color: rgb(255, 255, 255);
         text-align: center;
         float: left;
-        margin: 0;
+        margin: 0%;
     }
 
     h1{
@@ -129,12 +131,13 @@
         background-color: rgb(214, 0, 0);
         text-align: center;
        float: left;
+       margin: 0%;
 
     }
 
     main{
         width: 75%;
-        height: 2010px;
+        height: 100%;
         background-color: rgb(128, 0, 0);
         float: left;
         margin-left: 13%;
@@ -143,9 +146,9 @@
 
     #a{
         float: left;
-        width: 200px;
-        height: 250px;
-       margin-left: 16%;
+        width: 50%;
+        height: 40%;
+       margin-left: 25%;
        margin-top: 3%;
     
     }
@@ -153,39 +156,36 @@
     #ff2{
         float: right;
         margin-top: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
         text-size-adjust: 2px;
+        margin: 0 auto;
     }
 
     #b{
            float: left;
-           width: 200px;
-           height: 250px;
-           margin-left: 16%;
+           width: 50%;
+        height: 40%;
+           margin-left: 25%;
            margin-top: 3%;
     }
 
     #otp{
         float: right;
         margin-top: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
+       margin: 0 auto;
         text-size-adjust: 2px;
     }
     #c{
         float: left;
-        width: 200px;
-        height: 250px;
-        margin-left: 16%;
+        width: 50%;
+        height: 40%;
+        margin-left: 25%;
        margin-top: 3%;
     }
 
     #hmc{
         float: right;
         margin-top: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
+        margin: 0 auto;
         text-size-adjust: 2px
     }
 
@@ -220,7 +220,7 @@
         float: left;
         text-align: center;
         margin: 0 auto;
-        margin-left: 55px;
+        margin-left: 8%;
         }
 
         #ti{
@@ -242,7 +242,7 @@
     
         main{
             width: 75%;
-            height: 2050px;
+            height: 100%;
             background-color: rgb(128, 0, 0);
             float: left;
             margin-left: 13%;
@@ -251,10 +251,10 @@
     
         #a{
             float: left;
-            width: 200px;
-            height: 250px;
-           margin-left: 180px;
-           margin-top: 40px;
+        width: 50%;
+        height: 40%;
+        margin-left: 25%;
+           margin-top: 4%;
         
         }
     
@@ -266,10 +266,10 @@
     
         #b{
             float: left;
-            width: 200px;
-            height: 250px;
-           margin-left: 180px;
-           margin-top: 40px;
+        width: 50%;
+        height: 40%;
+        margin-left: 25%;
+           margin-top: 4%;
         }
     
         #otp{
@@ -279,10 +279,10 @@
         }
         #c{
             float: left;
-            width: 200px;
-            height: 250px;
-           margin-left: 180px;
-           margin-top: 40px;
+        width: 50%;
+        height: 40%;
+        margin-left: 25%;
+           margin-top: 4%;
         }
     
         #hmc{
